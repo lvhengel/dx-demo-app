@@ -1,0 +1,49 @@
+{
+	"id": "ff025703-3ace-4d43-9db6-6c294be3551c",
+	"createdAt": "2024-01-11T10:31:32.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/lvhengel/dxp-demo-app.git"
+	},
+	"name": "DXP Demo App",
+	"description": "DXP Demo App",
+	"ver": "24.1.11.1132",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "f87eab6d-8fa8-4c1d-998a-5b42e5ae0b93",
+			"application": "demoapp",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"media_library": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
